@@ -1,2 +1,2 @@
 # tuluvakadal
-Namma Tuunadu
+Namma Tulunadu
